@@ -1,0 +1,161 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+header {
+    background-image: url(../img/heading-bg.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: 130em;
+    height: 480px;
+}
+h1,h4,p,span{
+    color: #ffffff;
+    text-align: center;
+}
+.first{
+    position: absolute;
+    margin-top: 110px;
+    margin-left: 450px;
+}
+hr{
+    width: 75%;
+}
+nav{
+    padding: 15px;
+    margin-left: 470px;
+}
+nav a{
+    text-decoration: none;
+}
+a{
+    padding: 25px;
+}
+.OUR{
+    background-color: rgb(183, 223, 247);
+}
+/*-------------------------------------------------*/
+.one{
+    position: absolute;
+    margin-left: 700px;
+    margin-top: -360px;
+}
+.two{
+    position: absolute;
+    margin-left: 400px;
+    margin-top: -360px;
+}
+.general{
+    width: 65%;
+    background-color: rgb(183, 223, 247);
+    height: 449px;
+    margin-left: 20%;
+    margin-top: 60px;
+}
+.general2{
+    width: 65%;
+    background-color: rgb(183, 223, 247);
+    height: 449px;
+    margin-left: 20%;
+    margin-top: 150px;
+}
+section{
+    background-image: url(../img/book-bg.jpg);
+    width: 100%;
+    height: 500px;
+    position: absolute;
+    margin-top: 70px;
+}
+.book{
+    margin-left: 390px;
+}
+.cc{
+    background-color: #ffffff;
+    position: absolute;
+    margin-top: -293px;
+    margin-left: 760px;
+    width: 25%;
+    height: 288px;
+}
+select{
+    width: 140px;
+}
+.bt{
+    position: absolute;
+    margin-left: 950px;
+    margin-top: -150px;
+}
+button{
+    background-color: tomato;
+    width: 140px;
+    height: 40px;
+    margin-left: 15px;
+}
+.person{
+    position: absolute;
+    margin-left: 785px;
+    margin-top: -125px;
+}
+.hour{
+    position: absolute;
+    margin-left: 205px;
+}
+.day{
+    position: absolute;
+    margin-left: 25px;
+}
+.full{
+    position: absolute;
+    margin-left: 785px;
+    margin-top: -150px;
+}
+input{
+    width: 130px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.tel{
+    position: absolute;
+    margin-left: 965px;
+    margin-top: -150px;
+}
+select{
+    width: 140px;
+    height: 40px;
+    position: absolute;
+    margin-top:-22px ;
+}
+.general1{
+    width: 65%;
+    background-color: rgb(183, 223, 247);
+    height: 449px;
+    margin-left: 20%;
+    margin-top: 150px;
+}
+.one1{
+    position: absolute;
+    margin-left: 330px;
+    margin-top: -360px;
+}
+.two1{
+    position: absolute;
+    margin-left: 40px;
+    margin-top: -360px;
+}
+footer{
+    background-color: rgb(26, 28, 48);
+    width: 100%;
+    height: 180px;
+    position: absolute;
+    margin-top: 560px;
+}
+.copy{
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 155px;
+}
+.templatemo{
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 1100px;
+}
